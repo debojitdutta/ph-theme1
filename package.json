@@ -1,17 +1,17 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "vscode_dark",
+    "name": "github-debojitdutta-ph-theme1",
+    "description": "vscode default dark theme",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Debojit Dutta (https://github.com/debojitdutta)",
+    "homepage": "https://github.com/debojitdutta/ph-theme1",
     "engines": {
-        "brackets": ">=2.0.0"
+        "brackets": ">=3.0.0"
     },
-    "categories": "demo",
+    "categories": "modern",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "modern" , "vscode"
     ],
     "theme": {
         "file": "my-theme.less",
